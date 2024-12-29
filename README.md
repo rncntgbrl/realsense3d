@@ -2,6 +2,8 @@
 
 This repository contains a Python script that integrates object detection using YOLOv8 with depth measurements from an Intel RealSense D435i camera. The program processes live video streams, detects objects, and provides their distances from the camera in real-time.
 
+![Chair and book detection](chair-and-book.png)
+
 ## Features
 - **RealSense Integration**: Streams color and depth frames using the RealSense D435i camera.
 - **Object Detection**: Utilizes the YOLOv8 model for real-time object detection.
