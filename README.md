@@ -23,8 +23,8 @@ Ensure that you have Python 3.8 or higher installed on your system.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/rncntgbrl/realsense3d
+   cd realsense3d
    ```
 
 2. **Set up the environment**:
